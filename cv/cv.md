@@ -34,12 +34,12 @@ After completing bootcamp, I have decided to gain more knowledge in technology a
 ## Code Example:
 
 ## Experience:
-- Hypnotes, SDET 
+- **Hypnotes** as SDET since *Jan 2022* 
 
 ## Education:
-- Rolling Scopes School
-- Udemy
-- TechPro Education Bootcamp
+- **Rolling Scopes School:** JavaScript/FrontEnd Course *(English)*
+- **Udemy:** The Web Developer Bootcamp 2022 by *Colt Steele*
+- **TechPro Education Bootcamp:** Full Stack Automation Engineer
 
 ## Languages:
 - **Turkish:** Native proficiency
