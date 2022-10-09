@@ -1,4 +1,4 @@
-# [rsschool-cv](https://github.com/rolling-scopes-school/ezrac0des-JSFEEN2022Q3)
+# [rsschool-cv](https://ezrac0des.github.io/rsschool-cv/)
 
 ---
 
