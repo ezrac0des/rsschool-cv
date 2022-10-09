@@ -19,7 +19,7 @@ After high school, I took a gap year to explore my interests. Throughout this ti
 
 Thereafter, I did a thorough research to find the best possible Software Development Engineer in Test (SDET) bootcamp out there for me and completed it with great success and huge compliments both from my mentors and my instructors. In this time, I have also worked in various jobs where I developed strong problem-solving, critical thinking and social skills. Besides these skills, I am a detail-oriented quick learner, and team player with a positive attitude.
 
-After completing bootcamp, I have decided to gain more knowledge in technology and expand my skills. I believe 
+After completing bootcamp, I have decided to gain more knowledge in technology and expand my skills. I believe my enthusiastic and sharp perspective on learning will lead me to a great success in this path of becoming Full-Stack Web Developer.
 
 ## Skills:
 - **Languages:** Core JAVA, SQL, HTML, CSS, JavaScript, MySQL, SQL
@@ -32,6 +32,19 @@ After completing bootcamp, I have decided to gain more knowledge in technology a
 - **IDEs:** IntelliJ, Eclipse, Visual Studio Code
 
 ## Code Example:
+Write a function to reverse a string in JavaScript.
+```
+function reverseString(str) {
+  let arr = Array.from(str);
+  let newArr = [];
+  for (let i = arr.length - 1; i >= 0; i--) {
+    newArr.push(arr[i]);
+  }
+  str = newArr.join('');
+  return str;
+}
+reverseString('hello');
+```
 
 ## Experience:
 - **Hypnotes** as SDET since *Jan 2022* 
